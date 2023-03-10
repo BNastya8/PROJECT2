@@ -1,7 +1,7 @@
 # PROJECT_2_HeadHunter
 PROJECT-2. Анализ вакансий из HeadHunter
 ## Оглавление
-[1. Описание проекта](https://github.com/BNastya8/PROJECT2/edit/main/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/BNastya8/PROJECT2/README.md#Описание-проекта)
 [2. Организационная информация](https://github.com/BNastya8/PROJECT2/edit/main/README.md#Организационная-информация)
 [3. Краткая информация о данных](https://github.com/BNastya8/PROJECT2/edit/main/README.md#Краткая-информация-о-данных)
 [4. Этапы работы над проектом](https://github.com/BNastya8/PROJECT2/edit/main/README.md#Этапы-работы-над-проектом)
